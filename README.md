@@ -1,6 +1,7 @@
 # Bootcamp linux Experience :rocket:
 
-Arquivos de Bash Script para provisionar um servidor apache (IaC) criado no bootcamp Linux Experience da DIO.me
+Docker: Utilização prática no cenário de Microsserviços.  
+A história de Toshiro Shibakita live coding realizado no bootcamp Linux Experience da DIO.me
 
 ## Projeto 2 - Infrastructure as Code
 
