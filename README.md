@@ -11,7 +11,6 @@ A tecnologia de Containers promete mudar a maneira como as operações de TI sã
 * **Pré-requisitos:**
   * Conhecimentos básicos em Linux, Docker e AWS.
 
-**Microsserviços** | **Docker** | **Linux** | **GitHub**
- 
-
 * **Back-End**
+
+**Microsserviços** | **Docker** | **Linux** | **GitHub**
